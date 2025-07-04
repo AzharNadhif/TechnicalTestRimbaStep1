@@ -2,7 +2,7 @@
 
 ## 🔧 Setup Project
 1. Clone Project
-git clone https://github.com/namakamu/namarepo.git
+git clone https://github.com/AzharNadhif/TechnicalTestRimbaStep1
 cd namarepo
 
 2. Install Dependency
