@@ -2,15 +2,21 @@
 
 ## 🔧 Setup Project
 1. Clone Project
+
 git clone https://github.com/AzharNadhif/TechnicalTestRimbaStep1
+
 cd namarepo
 
-2. Install Dependency
+3. Install Dependency
+
 composer install
+
 npm install && npm run build
 
-3. Setup Environment
+4. Setup Environment
+
 cp .env.example .env
+
 Lalu sesuaikan konfigurasi database di file .env:
 
 DB_CONNECTION=mysql
